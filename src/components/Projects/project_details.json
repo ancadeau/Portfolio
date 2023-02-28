@@ -1,0 +1,121 @@
+{
+    "projects": [
+        {
+            "title": "Zappy",
+            "date": "16/05/2022 - 26/06/2022",
+            "personnal": false,
+            "description": [
+                "Le but du projet était de créer un serveur en C sur lequel tournerait une carte remplie de matériaux et de nourriture, distribués et mis à jour aléatoirement.",
+                "Sur cette dernière une IA devait pouvoir se connecter avec son adresse IP, et survivre toute seule à l'aide du peu de requêtes qu'elle à le droit de faire au serveur.Si plusieurs IA se connectent, elles doivent pouvoir parler entre elles et s'entraider afin d'évoluer du niveau 1 au niveau 8.",
+                "Un GUI (Graphic User Interface) a été créé en Unity afin de pouvoir visualiser la carte présente sur le serveur et les IA qui s'y balladent."
+            ],
+            "technologies": [
+                {
+                    "icon" : "C",
+                    "subject": "Serveur"
+                },
+                {
+                    "icon" : "Python",
+                    "subject": "IA"
+                },
+                {
+                    "icon" : "Unity",
+                    "subject": "GUI"
+                }
+            ],
+            "images": [
+                "blabla",
+                "bloblo",
+                "blibli"
+            ],
+            "links": [
+                {
+                    "name": "Github",
+                    "url": "https://github.com/ancadeau/Zappy"
+                },
+                {
+                    "name": "PowerPoint",
+                    "url": "https://www.canva.com/design/DAFEyFUjeI4/01A52WchEto8ocNOVonCLQ/edit?utm_content=DAFEyFUjeI4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton#1"
+                }
+            ]
+        },
+        {
+            "title": "Zappy",
+            "date": "16/05/2022 - 26/06/2022",
+            "personnal": false,
+            "description": [
+                "Le but du projet était de créer un serveur en C sur lequel tournerait une carte remplie de matériaux et de nourriture, distribués et mis à jour aléatoirement.",
+                "Sur cette dernière une IA devait pouvoir se connecter avec son adresse IP, et survivre toute seule à l'aide du peu de requêtes qu'elle à le droit de faire au serveur.Si plusieurs IA se connectent, elles doivent pouvoir parler entre elles et s'entraider afin d'évoluer du niveau 1 au niveau 8.",
+                "Un GUI (Graphic User Interface) a été créé en Unity afin de pouvoir visualiser la carte présente sur le serveur et les IA qui s'y balladent."
+            ],
+            "technologies": [
+                {
+                    "icon" : "C",
+                    "subject": "Serveur"
+                },
+                {
+                    "icon" : "Python",
+                    "subject": "IA"
+                },
+                {
+                    "icon" : "Unity",
+                    "subject": "GUI"
+                }
+            ],
+            "images": [
+                "blabla",
+                "bloblo",
+                "blibli"
+            ],
+            "links": [
+                {
+                    "name": "Github",
+                    "url": "https://github.com/ancadeau/Zappy"
+                },
+                {
+                    "name": "PowerPoint",
+                    "url": "https://www.canva.com/design/DAFEyFUjeI4/01A52WchEto8ocNOVonCLQ/edit?utm_content=DAFEyFUjeI4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton#1"
+                }
+            ]
+        },
+        {
+            "title": "Zappy",
+            "date": "16/05/2022 - 26/06/2022",
+            "personnal": false,
+            "description": [
+                "Le but du projet était de créer un serveur en C sur lequel tournerait une carte remplie de matériaux et de nourriture, distribués et mis à jour aléatoirement.",
+                "Sur cette dernière une IA devait pouvoir se connecter avec son adresse IP, et survivre toute seule à l'aide du peu de requêtes qu'elle à le droit de faire au serveur.Si plusieurs IA se connectent, elles doivent pouvoir parler entre elles et s'entraider afin d'évoluer du niveau 1 au niveau 8.",
+                "Un GUI (Graphic User Interface) a été créé en Unity afin de pouvoir visualiser la carte présente sur le serveur et les IA qui s'y balladent."
+            ],
+            "technologies": [
+                {
+                    "icon" : "C",
+                    "subject": "Serveur"
+                },
+                {
+                    "icon" : "Python",
+                    "subject": "IA"
+                },
+                {
+                    "icon" : "Unity",
+                    "subject": "GUI"
+                }
+            ],
+            "images": [
+                "blabla",
+                "bloblo",
+                "blibli"
+            ],
+            "links": [
+                {
+                    "name": "Github",
+                    "url": "https://github.com/ancadeau/Zappy"
+                },
+                {
+                    "name": "PowerPoint",
+                    "url": "https://www.canva.com/design/DAFEyFUjeI4/01A52WchEto8ocNOVonCLQ/edit?utm_content=DAFEyFUjeI4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton#1"
+                }
+            ]
+        }
+    ]
+}
